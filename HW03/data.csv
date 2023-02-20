@@ -1,0 +1,432 @@
+best,,,,,
+Selection Sort, int,10,1.36E+12,1.36E+12,17700
+Selection Sort, String,10,1.36E+12,1.36E+12,87100
+average,,,,,
+Selection Sort, int,10,1.36E+12,1.36E+12,17600
+Selection Sort, String,10,1.36E+12,1.36E+12,113800
+worst,,,,,
+Selection Sort, int,10,1.36E+12,1.36E+12,43000
+Selection Sort, String,10,1.36E+12,1.36E+12,70500
+best,,,,,
+Insertion Sort, int,10,1.36E+12,1.36E+12,1325300
+Insertion Sort, String,10,1.36E+12,1.36E+12,30100
+average,,,,,
+Insertion Sort, int,10,1.36E+12,1.36E+12,11100
+Insertion Sort, String,10,1.36E+12,1.36E+12,43700
+worst,,,,,
+Insertion Sort, int,10,1.36E+12,1.36E+12,5300
+Insertion Sort, String,10,1.36E+12,1.36E+12,42300
+best,,,,,
+Shell Sort, int,10,1.36E+12,1.36E+12,2230800
+Shell Sort, String,10,1.36E+12,1.36E+12,15300
+average,,,,,
+Shell Sort, int,10,1.36E+12,1.36E+12,10500
+Shell Sort, String,10,1.36E+12,1.36E+12,24400
+worst,,,,,
+Shell Sort, int,10,1.36E+12,1.36E+12,7600
+Shell Sort, String,10,1.36E+12,1.36E+12,14500
+best,,,,,
+Heap Sort, int,10,1.36E+12,1.36E+12,1948500
+Heap Sort, String,10,1.36E+12,1.36E+12,122800
+average,,,,,
+Heap Sort, int,10,1.36E+12,1.36E+12,12700
+Heap Sort, String,10,1.36E+12,1.36E+12,58000
+worst,,,,,
+Heap Sort, int,10,1.36E+12,1.36E+12,18000
+Heap Sort, String,10,1.36E+12,1.36E+12,37400
+best,,,,,
+Merge Sort, int,10,1.36E+12,1.36E+12,1596600
+Merge Sort, String,10,1.36E+12,1.36E+12,50200
+average,,,,,
+Merge Sort, int,10,1.36E+12,1.36E+12,14900
+Merge Sort, String,10,1.36E+12,1.36E+12,18800
+worst,,,,,
+Merge Sort, int,10,1.36E+12,1.36E+12,14800
+Merge Sort, String,10,1.36E+12,1.36E+12,18400
+best,,,,,
+Quick Sort, int,10,1.36E+12,1.36E+12,1483300
+Quick Sort, String,10,1.36E+12,1.36E+12,18500
+average,,,,,
+Quick Sort, int,10,1.36E+12,1.36E+12,19700
+Quick Sort, String,10,1.36E+12,1.36E+12,27800
+worst,,,,,
+Quick Sort, int,10,1.36E+12,1.36E+12,37900
+Quick Sort, String,10,1.36E+12,1.36E+12,63100
+best,,,,,
+Selection Sort, int,100,1.36E+12,1.36E+12,264100
+Selection Sort, String,100,1.36E+12,1.36E+12,340200
+average,,,,,
+Selection Sort, int,100,1.36E+12,1.36E+12,312600
+Selection Sort, String,100,1.36E+12,1.36E+12,369200
+worst,,,,,
+Selection Sort, int,100,1.36E+12,1.36E+12,1042200
+Selection Sort, String,100,1.36E+12,1.36E+12,337100
+best,,,,,
+Insertion Sort, int,100,1.36E+12,1.36E+12,2568400
+Insertion Sort, String,100,1.36E+12,1.36E+12,41400
+average,,,,,
+Insertion Sort, int,100,1.36E+12,1.36E+12,24700
+Insertion Sort, String,100,1.36E+12,1.36E+12,42700
+worst,,,,,
+Insertion Sort, int,100,1.36E+12,1.36E+12,17900
+Insertion Sort, String,100,1.36E+12,1.36E+12,71200
+best,,,,,
+Shell Sort, int,100,1.36E+12,1.36E+12,2518500
+Shell Sort, String,100,1.36E+12,1.36E+12,120700
+average,,,,,
+Shell Sort, int,100,1.36E+12,1.36E+12,55400
+Shell Sort, String,100,1.36E+12,1.36E+12,150200
+worst,,,,,
+Shell Sort, int,100,1.36E+12,1.36E+12,23400
+Shell Sort, String,100,1.36E+12,1.36E+12,139900
+best,,,,,
+Heap Sort, int,100,1.36E+12,1.36E+12,2694200
+Heap Sort, String,100,1.36E+12,1.36E+12,824500
+average,,,,,
+Heap Sort, int,100,1.36E+12,1.36E+12,202400
+Heap Sort, String,100,1.36E+12,1.36E+12,346400
+worst,,,,,
+Heap Sort, int,100,1.36E+12,1.36E+12,143000
+Heap Sort, String,100,1.36E+12,1.36E+12,256600
+best,,,,,
+Merge Sort, int,100,1.36E+12,1.36E+12,2290200
+Merge Sort, String,100,1.36E+12,1.36E+12,272000
+average,,,,,
+Merge Sort, int,100,1.36E+12,1.36E+12,80300
+Merge Sort, String,100,1.36E+12,1.36E+12,141700
+worst,,,,,
+Merge Sort, int,100,1.36E+12,1.36E+12,44800
+Merge Sort, String,100,1.36E+12,1.36E+12,101000
+best,,,,,
+Quick Sort, int,100,1.36E+12,1.36E+12,2540800
+Quick Sort, String,100,1.36E+12,1.36E+12,1198600
+average,,,,,
+Quick Sort, int,100,1.36E+12,1.36E+12,292300
+Quick Sort, String,100,1.36E+12,1.36E+12,236200
+worst,,,,,
+Quick Sort, int,100,1.36E+12,1.36E+12,140000
+Quick Sort, String,100,1.36E+12,1.36E+12,318700
+best,,,,,
+Selection Sort, int,1000,1.37E+12,1.37E+12,54129400
+Selection Sort, String,1000,1.37E+12,1.37E+12,39221200
+average,,,,,
+Selection Sort, int,1000,1.37E+12,1.37E+12,23755200
+Selection Sort, String,1000,1.37E+12,1.37E+12,9931400
+worst,,,,,
+Selection Sort, int,1000,1.37E+12,1.37E+12,2965700
+Selection Sort, String,1000,1.37E+12,1.37E+12,7850100
+best,,,,,
+Insertion Sort, int,1000,1.37E+12,1.37E+12,1451100
+Insertion Sort, String,1000,1.37E+12,1.37E+12,296200
+average,,,,,
+Insertion Sort, int,1000,1.37E+12,1.37E+12,148700
+Insertion Sort, String,1000,1.37E+12,1.37E+12,256000
+worst,,,,,
+Insertion Sort, int,1000,1.37E+12,1.37E+12,109200
+Insertion Sort, String,1000,1.37E+12,1.37E+12,248000
+best,,,,,
+Shell Sort, int,1000,1.37E+12,1.37E+12,2335600
+Shell Sort, String,1000,1.37E+12,1.37E+12,417100
+average,,,,,
+Shell Sort, int,1000,1.37E+12,1.37E+12,182800
+Shell Sort, String,1000,1.37E+12,1.37E+12,445100
+worst,,,,,
+Shell Sort, int,1000,1.37E+12,1.37E+12,314300
+Shell Sort, String,1000,1.37E+12,1.37E+12,642000
+best,,,,,
+Heap Sort, int,1000,1.37E+12,1.37E+12,2916200
+Heap Sort, String,1000,1.37E+12,1.37E+12,763600
+average,,,,,
+Heap Sort, int,1000,1.37E+12,1.37E+12,513300
+Heap Sort, String,1000,1.37E+12,1.37E+12,1438500
+worst,,,,,
+Heap Sort, int,1000,1.37E+12,1.37E+12,1992100
+Heap Sort, String,1000,1.37E+12,1.37E+12,2805100
+best,,,,,
+Merge Sort, int,1000,1.37E+12,1.37E+12,3240100
+Merge Sort, String,1000,1.37E+12,1.37E+12,931200
+average,,,,,
+Merge Sort, int,1000,1.37E+12,1.37E+12,354700
+Merge Sort, String,1000,1.37E+12,1.37E+12,850500
+worst,,,,,
+Merge Sort, int,1000,1.37E+12,1.37E+12,575000
+Merge Sort, String,1000,1.37E+12,1.37E+12,835400
+best,,,,,
+Quick Sort, int,1000,1.37E+12,1.37E+12,18142200
+Quick Sort, String,1000,1.37E+12,1.37E+12,17659200
+average,,,,,
+Quick Sort, int,1000,1.37E+12,1.37E+12,20934300
+Quick Sort, String,1000,1.37E+12,1.37E+12,23098200
+worst,,,,,
+Quick Sort, int,1000,1.37E+12,1.37E+12,18059400
+Quick Sort, String,1000,1.37E+12,1.37E+12,3565700
+best,,,,,
+Selection Sort, int,10000,1.38E+12,1.38E+12,120933400
+Selection Sort, String,10000,1.38E+12,1.38E+12,658470500
+average,,,,,
+Selection Sort, int,10000,1.38E+12,1.38E+12,130627500
+Selection Sort, String,10000,1.38E+12,1.38E+12,348770700
+worst,,,,,
+Selection Sort, int,10000,1.38E+12,1.38E+12,156965600
+Selection Sort, String,10000,1.38E+12,1.38E+12,305453000
+best,,,,,
+Insertion Sort, int,10000,1.38E+12,1.38E+12,2580900
+Insertion Sort, String,10000,1.38E+12,1.38E+12,1177700
+average,,,,,
+Insertion Sort, int,10000,1.38E+12,1.38E+12,459500
+Insertion Sort, String,10000,1.38E+12,1.38E+12,764600
+worst,,,,,
+Insertion Sort, int,10000,1.38E+12,1.38E+12,274500
+Insertion Sort, String,10000,1.38E+12,1.38E+12,522500
+best,,,,,
+Shell Sort, int,10000,1.38E+12,1.38E+12,2246400
+Shell Sort, String,10000,1.38E+12,1.38E+12,2160800
+average,,,,,
+Shell Sort, int,10000,1.38E+12,1.38E+12,3037600
+Shell Sort, String,10000,1.38E+12,1.38E+12,1036300
+worst,,,,,
+Shell Sort, int,10000,1.38E+12,1.38E+12,327600
+Shell Sort, String,10000,1.38E+12,1.38E+12,1184600
+best,,,,,
+Heap Sort, int,10000,1.38E+12,1.38E+12,12104700
+Heap Sort, String,10000,1.38E+12,1.38E+12,25368500
+average,,,,,
+Heap Sort, int,10000,1.38E+12,1.38E+12,18788500
+Heap Sort, String,10000,1.38E+12,1.38E+12,5952000
+worst,,,,,
+Heap Sort, int,10000,1.38E+12,1.38E+12,4743900
+Heap Sort, String,10000,1.38E+12,1.38E+12,4957800
+best,,,,,
+Merge Sort, int,10000,1.38E+12,1.38E+12,7234300
+Merge Sort, String,10000,1.38E+12,1.38E+12,16440600
+average,,,,,
+Merge Sort, int,10000,1.38E+12,1.38E+12,15801400
+Merge Sort, String,10000,1.38E+12,1.38E+12,14125400
+worst,,,,,
+Merge Sort, int,10000,1.38E+12,1.38E+12,4698900
+Merge Sort, String,10000,1.38E+12,1.38E+12,6017700
+best,,,,,
+Quick Sort, int,10000,1.38E+12,1.38E+12,105267700
+Quick Sort, String,10000,1.38E+12,1.38E+12,359479000
+average,,,,,
+Quick Sort, int,10000,1.38E+12,1.38E+12,154665900
+Quick Sort, String,10000,1.38E+12,1.38E+12,402367200
+worst,,,,,
+Quick Sort, int,10000,1.38E+12,1.38E+12,179291500
+Quick Sort, String,10000,1.38E+12,1.38E+12,326609300
+best,,,,,
+Selection Sort, int,25000,1.40E+12,1.40E+12,862320100
+Selection Sort, String,25000,1.40E+12,1.40E+12,1826758300
+average,,,,,
+Selection Sort, int,25000,1.40E+12,1.40E+12,896905400
+Selection Sort, String,25000,1.40E+12,1.40E+12,1928399500
+worst,,,,,
+Selection Sort, int,25000,1.40E+12,1.41E+12,1015722800
+Selection Sort, String,25000,1.41E+12,1.41E+12,1843553100
+best,,,,,
+Insertion Sort, int,25000,1.41E+12,1.41E+12,3488200
+Insertion Sort, String,25000,1.41E+12,1.41E+12,2854400
+average,,,,,
+Insertion Sort, int,25000,1.41E+12,1.41E+12,481800
+Insertion Sort, String,25000,1.41E+12,1.41E+12,2623300
+worst,,,,,
+Insertion Sort, int,25000,1.41E+12,1.41E+12,118100
+Insertion Sort, String,25000,1.41E+12,1.41E+12,718900
+best,,,,,
+Shell Sort, int,25000,1.41E+12,1.41E+12,4834100
+Shell Sort, String,25000,1.41E+12,1.41E+12,4259800
+average,,,,,
+Shell Sort, int,25000,1.41E+12,1.41E+12,812000
+Shell Sort, String,25000,1.41E+12,1.41E+12,1162200
+worst,,,,,
+Shell Sort, int,25000,1.41E+12,1.41E+12,245200
+Shell Sort, String,25000,1.41E+12,1.41E+12,928300
+best,,,,,
+Heap Sort, int,25000,1.41E+12,1.41E+12,45950600
+Heap Sort, String,25000,1.41E+12,1.41E+12,20532400
+average,,,,,
+Heap Sort, int,25000,1.41E+12,1.41E+12,9868100
+Heap Sort, String,25000,1.41E+12,1.41E+12,14206900
+worst,,,,,
+Heap Sort, int,25000,1.41E+12,1.41E+12,9693200
+Heap Sort, String,25000,1.41E+12,1.41E+12,15569500
+best,,,,,
+Merge Sort, int,25000,1.41E+12,1.41E+12,14754700
+Merge Sort, String,25000,1.41E+12,1.41E+12,42565400
+average,,,,,
+Merge Sort, int,25000,1.41E+12,1.41E+12,37234000
+Merge Sort, String,25000,1.41E+12,1.41E+12,31568300
+worst,,,,,
+Merge Sort, int,25000,1.41E+12,1.41E+12,18957500
+Merge Sort, String,25000,1.41E+12,1.41E+12,9030600
+best,,,,,
+Quick Sort, int,25000,1.41E+12,1.41E+12,524141500
+Quick Sort, String,25000,1.41E+12,1.41E+12,1905098800
+average,,,,,
+Quick Sort, int,25000,1.41E+12,1.41E+12,817150400
+Quick Sort, String,25000,1.41E+12,1.42E+12,1752914200
+worst,,,,,
+Quick Sort, int,25000,1.42E+12,1.42E+12,884166600
+Quick Sort, String,25000,1.42E+12,1.42E+12,2007943500
+best,,,,,
+Selection Sort, int,50000,1.49E+12,1.50E+12,2701170600
+Selection Sort, String,50000,1.50E+12,1.50E+12,6968136700
+average,,,,,
+Selection Sort, int,50000,1.50E+12,1.51E+12,2708254300
+Selection Sort, String,50000,1.51E+12,1.51E+12,6678154900
+worst,,,,,
+Selection Sort, int,50000,1.51E+12,1.52E+12,2908317300
+Selection Sort, String,50000,1.52E+12,1.52E+12,6596984100
+best,,,,,
+Insertion Sort, int,50000,1.52E+12,1.52E+12,4017400
+Insertion Sort, String,50000,1.52E+12,1.52E+12,2065400
+average,,,,,
+Insertion Sort, int,50000,1.52E+12,1.52E+12,2444000
+Insertion Sort, String,50000,1.52E+12,1.52E+12,812100
+worst,,,,,
+Insertion Sort, int,50000,1.52E+12,1.52E+12,220600
+Insertion Sort, String,50000,1.52E+12,1.52E+12,783800
+best,,,,,
+Shell Sort, int,50000,1.52E+12,1.52E+12,4744200
+Shell Sort, String,50000,1.52E+12,1.52E+12,4559900
+average,,,,,
+Shell Sort, int,50000,1.53E+12,1.53E+12,444500
+Shell Sort, String,50000,1.53E+12,1.53E+12,1540700
+worst,,,,,
+Shell Sort, int,50000,1.53E+12,1.53E+12,303300
+Shell Sort, String,50000,1.53E+12,1.53E+12,1605800
+best,,,,,
+Heap Sort, int,50000,1.53E+12,1.53E+12,57986500
+Heap Sort, String,50000,1.53E+12,1.53E+12,35777100
+average,,,,,
+Heap Sort, int,50000,1.53E+12,1.53E+12,22049700
+Heap Sort, String,50000,1.53E+12,1.53E+12,45341400
+worst,,,,,
+Heap Sort, int,50000,1.53E+12,1.53E+12,38098500
+Heap Sort, String,50000,1.53E+12,1.53E+12,28567000
+best,,,,,
+Merge Sort, int,50000,1.53E+12,1.53E+12,39395400
+Merge Sort, String,50000,1.53E+12,1.53E+12,67999200
+average,,,,,
+Merge Sort, int,50000,1.53E+12,1.53E+12,18682700
+Merge Sort, String,50000,1.53E+12,1.53E+12,18807400
+worst,,,,,
+Merge Sort, int,50000,1.53E+12,1.53E+12,15983000
+Merge Sort, String,50000,1.53E+12,1.53E+12,18850200
+best,,,,,
+Quick Sort, int,50000,1.53E+12,1.53E+12,1865626400
+Quick Sort, String,50000,1.53E+12,1.54E+12,7317243100
+average,,,,,
+Quick Sort, int,50000,1.54E+12,1.54E+12,3325900400
+Quick Sort, String,50000,1.54E+12,1.55E+12,7277803000
+worst,,,,,
+Quick Sort, int,50000,1.55E+12,1.55E+12,3241502000
+Quick Sort, String,50000,1.55E+12,1.56E+12,7745343300
+best,,,,,
+Selection Sort, int,75000,1.70E+12,1.71E+12,6220415500
+Selection Sort, String,75000,1.71E+12,1.73E+12,25995458500
+average,,,,,
+Selection Sort, int,75000,1.73E+12,1.74E+12,6171204900
+Selection Sort, String,75000,1.74E+12,1.77E+12,25771614600
+worst,,,,,
+Selection Sort, int,75000,1.77E+12,1.77E+12,6518665900
+Selection Sort, String,75000,1.77E+12,1.80E+12,25875382600
+best,,,,,
+Insertion Sort, int,75000,1.80E+12,1.80E+12,6810800
+Insertion Sort, String,75000,1.80E+12,1.80E+12,13169200
+average,,,,,
+Insertion Sort, int,75000,1.80E+12,1.80E+12,345700
+Insertion Sort, String,75000,1.80E+12,1.80E+12,3639900
+worst,,,,,
+Insertion Sort, int,75000,1.80E+12,1.80E+12,332900
+Insertion Sort, String,75000,1.80E+12,1.80E+12,2762600
+best,,,,,
+Shell Sort, int,75000,1.80E+12,1.80E+12,7569600
+Shell Sort, String,75000,1.80E+12,1.80E+12,26448000
+average,,,,,
+Shell Sort, int,75000,1.80E+12,1.80E+12,841000
+Shell Sort, String,75000,1.80E+12,1.80E+12,7475400
+worst,,,,,
+Shell Sort, int,75000,1.80E+12,1.80E+12,704000
+Shell Sort, String,75000,1.80E+12,1.80E+12,6890300
+best,,,,,
+Heap Sort, int,75000,1.80E+12,1.80E+12,88652100
+Heap Sort, String,75000,1.80E+12,1.80E+12,84765000
+average,,,,,
+Heap Sort, int,75000,1.80E+12,1.80E+12,30912900
+Heap Sort, String,75000,1.80E+12,1.80E+12,48821800
+worst,,,,,
+Heap Sort, int,75000,1.80E+12,1.80E+12,38406900
+Heap Sort, String,75000,1.80E+12,1.80E+12,51929400
+best,,,,,
+Merge Sort, int,75000,1.81E+12,1.81E+12,97564100
+Merge Sort, String,75000,1.81E+12,1.81E+12,99158000
+average,,,,,
+Merge Sort, int,75000,1.81E+12,1.81E+12,29375400
+Merge Sort, String,75000,1.81E+12,1.81E+12,52922500
+worst,,,,,
+Merge Sort, int,75000,1.81E+12,1.81E+12,25550200
+Merge Sort, String,75000,1.81E+12,1.81E+12,37828300
+best,,,,,
+Quick Sort, int,75000,1.81E+12,1.81E+12,4318964800
+Quick Sort, String,75000,1.81E+12,1.83E+12,20649497600
+average,,,,,
+Quick Sort, int,75000,1.83E+12,1.84E+12,4576502200
+Quick Sort, String,75000,1.84E+12,1.86E+12,21222280200
+worst,,,,,
+Quick Sort, int,75000,1.86E+12,1.86E+12,4030241200
+Quick Sort, String,75000,1.86E+12,1.88E+12,20627063600
+best,,,,,
+Selection Sort, int,100000,2.15E+12,2.17E+12,11976427600
+Selection Sort, String,100000,2.17E+12,2.22E+12,51338630700
+average,,,,,
+Selection Sort, int,100000,2.22E+12,2.23E+12,11172700100
+Selection Sort, String,100000,2.23E+12,2.28E+12,47682778800
+worst,,,,,
+Selection Sort, int,100000,2.28E+12,2.29E+12,11744729700
+Selection Sort, String,100000,2.29E+12,2.34E+12,50989535300
+best,,,,,
+Insertion Sort, int,100000,2.34E+12,2.34E+12,8856700
+Insertion Sort, String,100000,2.34E+12,2.34E+12,13041400
+average,,,,,
+Insertion Sort, int,100000,2.34E+12,2.34E+12,335000
+Insertion Sort, String,100000,2.34E+12,2.34E+12,2796200
+worst,,,,,
+Insertion Sort, int,100000,2.34E+12,2.34E+12,331700
+Insertion Sort, String,100000,2.34E+12,2.34E+12,2964600
+best,,,,,
+Shell Sort, int,100000,2.34E+12,2.34E+12,11584200
+Shell Sort, String,100000,2.34E+12,2.34E+12,25197700
+average,,,,,
+Shell Sort, int,100000,2.34E+12,2.34E+12,648800
+Shell Sort, String,100000,2.34E+12,2.34E+12,6719100
+worst,,,,,
+Shell Sort, int,100000,2.34E+12,2.34E+12,662600
+Shell Sort, String,100000,2.34E+12,2.34E+12,5486300
+best,,,,,
+Heap Sort, int,100000,2.34E+12,2.34E+12,93511200
+Heap Sort, String,100000,2.34E+12,2.34E+12,95917800
+average,,,,,
+Heap Sort, int,100000,2.35E+12,2.35E+12,48592200
+Heap Sort, String,100000,2.35E+12,2.35E+12,90853600
+worst,,,,,
+Heap Sort, int,100000,2.35E+12,2.35E+12,47421500
+Heap Sort, String,100000,2.35E+12,2.35E+12,80979400
+best,,,,,
+Merge Sort, int,100000,2.35E+12,2.35E+12,97304800
+Merge Sort, String,100000,2.35E+12,2.35E+12,85919500
+average,,,,,
+Merge Sort, int,100000,2.35E+12,2.35E+12,40454500
+Merge Sort, String,100000,2.35E+12,2.35E+12,64318800
+worst,,,,,
+Merge Sort, int,100000,2.35E+12,2.35E+12,35208000
+Merge Sort, String,100000,2.35E+12,2.35E+12,59550700
+best,,,,,
+Quick Sort, int,100000,2.35E+12,2.36E+12,6888248200
+Quick Sort, String,100000,2.36E+12,2.40E+12,46673858800
+average,,,,,
+Quick Sort, int,100000,2.40E+12,2.41E+12,10898657200
+Quick Sort, String,100000,2.42E+12,2.46E+12,46399899800
+worst,,,,,
+Quick Sort, int,100000,2.46E+12,2.47E+12,10990739400
+Quick Sort, String,100000,2.47E+12,2.53E+12,53116852300
